@@ -6,5 +6,5 @@ Do not worry if the link to my neovim distribution returns a 404, for it is stil
 
 
 
-You can contact me through [discord](https://discord.com/app/), my user name is mr.ultra69 (forgive my past self for the outdated username 😅)
+You can contact me through [discord](https://discord.com/app/), my user name is mr.ultra69 (or message ne at the account bro_at_archlinux ) (forgive my past self for the outdated username 😅)
 
